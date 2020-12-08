@@ -15,8 +15,15 @@
 * **Grafo BFS(Nodo s) { ... }**
 * **Grafo DFS_R(Nodo s) { ... }**
 * **Grafo DFS_I(Nodo s) { ... }**
+###### Entregar:
+* Código fuente.
+* Archivos de grafos generados. Tres por cada generador aleatorio (con 30, 100 y 500 nodos).
+* Archivos de grafos calculados. Tres por cada grafo generado (un BFS y dos DFS).
+* Imágenes de la visualización de cada grafo (generados y calculados).
+
 
 ## Ejecución:
-* 1. Se Genera el `Proyecto1` con el paquete `Modelos`.
+* 1. Se Genera el `Proyecto` con el paquete `Modelos`.
 * 2. Se necesita compliar las clases `Nodo`, `Arsita` y `Generación de Grafos`.
-* 3. Las clases `GeneracionDeArchivoGV` y `Ejemplos` se deben compilar entre si por main.
+* 3. Para la primera entrega: Las clases `Proyecto1` y `Ejemplos` se deben compilar entre si por main.
+* 4. Para la segunda entrega: Las clases `Proyecto2` y `Ejemplos` se deben compilar entre si por main.
