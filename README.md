@@ -36,3 +36,4 @@
 * 2. Se necesita compliar las clases `Nodo`, `Arsita` y `Generación de Grafos`.
 * 3. Para la primera entrega: Las clases `Proyecto1` y `Ejemplos` se deben compilar entre si por main.
 * 4. Para la segunda entrega: Las clases `Proyecto2` y `Ejemplos` se deben compilar entre si por main.
+* 4. Para la tercera entrega: Las clases `Proyecto3` y `Ejemplos` se deben compilar entre si por main.
