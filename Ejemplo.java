@@ -27,6 +27,11 @@ public class Ejemplo {
         ejemplo.setAristaPeso(5, 7, 3.0);
         ejemplo.setAristaPeso(6, 7, 6.0);
         System.out.println(ejemplo);
+        
+        GenerarGrafos dijkstra = ejemplo.Dijkstra(0);
+
+        System.out.println(dijkstra);
+
 
     }
     
